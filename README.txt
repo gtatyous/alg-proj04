@@ -1,6 +1,4 @@
 
-Yousef Gtat
-A45569097
 CSE331
 Homework4
 programming problem 5
